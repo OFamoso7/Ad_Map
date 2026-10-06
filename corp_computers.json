@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "ObjectIdentifier": "S-1-5-21-1111111111-2222222222-3333333333-2001",
+      "Properties": {
+        "name": "SERVER-01.CORP.LOCAL",
+        "operatingsystem": "Windows Server 2019"
+      },
+      "LocalAdmins": {
+        "Results": [
+          {
+            "ObjectIdentifier": "S-1-5-21-1111111111-2222222222-3333333333-1601",
+            "ObjectType": "Group"
+          }
+        ]
+      },
+      "Sessions": {
+        "Results": [
+          {
+            "ObjectIdentifier": "S-1-5-21-1111111111-2222222222-3333333333-500",
+            "ObjectType": "User"
+          }
+        ]
+      }
+    }
+  ],
+  "meta": { "type": "computers", "count": 1 }
+}

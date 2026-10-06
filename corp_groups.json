@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "ObjectIdentifier": "S-1-5-21-1111111111-2222222222-3333333333-1601",
+      "Properties": {
+        "name": "SUPORTE TI@CORP.LOCAL"
+      },
+      "Members": [
+        {
+          "ObjectIdentifier": "S-1-5-21-1111111111-2222222222-3333333333-1105",
+          "ObjectType": "User"
+        },
+        {
+          "ObjectIdentifier": "S-1-5-21-1111111111-2222222222-3333333333-1106",
+          "ObjectType": "User"
+        }
+      ]
+    },
+    {
+      "ObjectIdentifier": "S-1-5-21-1111111111-2222222222-3333333333-512",
+      "Properties": {
+        "name": "DOMAIN ADMINS@CORP.LOCAL"
+      },
+      "Members": [
+        {
+          "ObjectIdentifier": "S-1-5-21-1111111111-2222222222-3333333333-500",
+          "ObjectType": "User"
+        }
+      ]
+    }
+  ],
+  "meta": { "type": "groups", "count": 2 }
+}
